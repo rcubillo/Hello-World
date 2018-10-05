@@ -1,2 +1,4 @@
 # Hello-World
 First repository. 
+
+I'm Ronald. I'm from Costa Rica and I will be attending a web developing bootcamp in Nashville.
